@@ -1,0 +1,17 @@
+
+ul {width:985px;height:30px;background-color:#0000FF
+	
+}
+
+html {background-color:#000000
+
+}
+
+#menu a.active{
+	padding: 5px 10px; 
+    margin:0;
+    border: 0px solid #f00; 
+    background: #330000;
+    text-decoration: none;
+    color:#FFF;
+}
